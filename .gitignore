@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env
+
+# Dependencies and build output (keep the ones that match your project)
+node_modules/
+__pycache__/
+*.pyc
+venv/
+bin/
+obj/
+build/
+dist/
+*.class
+*.log
