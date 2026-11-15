@@ -54,7 +54,7 @@ We chose the boarding house repair problem because it affects an identifiable gr
 
 Using the web development and interface design skills we learned from our coursework, we can complete a mobile web prototype covering reporting, status tracking, and the caretaker’s repair queue within the remaining semester. The system only needs room numbers, repair descriptions, and repairman contact details, so it can be demonstrated without collecting sensitive personal data. Testing also does not depend on outside events, since repair requests happen regularly in any boarding house.
 
- We set aside the campus study spot finder because its vacancy information depends on room schedules that may not match actual room use, due to cancellations, makeup classes, and events, and because access to those schedules depends on department offices. We also set aside the delivery scheduler app idea because it depends on refill station owners agreeing to adopt it and would need weeks of delivery cycles to evaluate. Finally, we set aside the disaster relief board because it requires outside verification and testing conditions that only occur during an actual disaster or relief drive.
+ We set aside the campus study spot finder because its vacancy information depends on room schedules that may not match actual room use, due to cancellations, makeup classes, and events, and because access to those schedules depends on department offices. We also set aside the delivery scheduler app idea because it depends on refill station owners agreeing to adopt it and would need weeks of delivery cycles to evaluate.
 
 ## 3\. Preliminary Project Proposal
 
@@ -64,7 +64,7 @@ AyoNa
 
 ### Problem statement
 
-Boarders near MSU-IIT experience delays when broken fixtures such as lights, faucets, and ceiling fans are not repaired promptly after they report them. Currently, reports are made verbally and tracked from memory or handwritten notes passed between caretakers, so complaints can be forgotten, miss the next shift, or get mixed up. In one case, staff realized they had forgotten another boarder's earlier request, and fixing that one first delayed a boarder's own repair. Boarders then follow up repeatedly without updates, and a broken light disrupts studying. The project aims to give boarders and caretakers one shared, visible record of repair requests and their status within a boarding house. The team still needs to confirm how common this is across boarding houses, whether caretakers will keep statuses updated, and whether owners will take part
+The boarders near MSU-IIT experience delays when broken fixtures such as lights, faucets, and ceiling fans are not repaired promptly after they report them. Currently, reports are made verbally and tracked from memory or handwritten notes passed between caretakers, so complaints can be forgotten, miss the next shift, or get mixed up. In one case, staff realized they had forgotten another boarder's earlier request, and fixing that one first delayed a boarder's own repair. Boarders then follow up repeatedly without updates, and a broken light disrupts studying. The project aims to give boarders and caretakers one shared, visible record of repair requests and their status within a boarding house. The team still needs to confirm how common this is across boarding houses, whether caretakers will keep statuses updated, and whether owners will take part.
 
 ### Proposed solution
 
@@ -105,13 +105,7 @@ AyoNa is intended for boarding house owners, caretakers, and tenants (boarders),
 
 ### Expected deliverables
 
-The team plans to deliver a working prototype for mobile devices covering the five in-scope capabilities, together with requirements and design documentation that includes user stories, wireframes, and the system design. The team will also provide test cases with their results, a usability test conducted with the prospective participants (boarders and a caretaker or owner), and recordable applications and push notifications are excluded because the prototype will run only as a mobile web page.
-
-### 
-
-### 
-
-### 
+The team plans to deliver a working prototype for mobile devices covering the five in-scope capabilities, together with requirements and design documentation that includes user stories, wireframes, and the system design. The team will also provide test cases with their results, a usability test conducted with the prospective participants (boarders and a caretaker or owner).
 
 ### Constraints
 
